@@ -1,0 +1,66 @@
+From:	Oliver Chung <ochung@gmail.com>
+Sent:	Monday, November 15, 2021 4:12 PM
+To:	Laura Stringer
+Cc:	La; Matt Morgan
+Subject:	Re: Printing Barcodes for TT Library: How To?
+
+I use an extremely outdated application called Xlabel to print these.  My understanding is that when the 
+company that developed Xlabel stopped working on it, they released the product activation keys and 
+that's what i've been using, even though on the surface it looks suspiciously like warez or whatever.  I 
+have the executables, keys and the template I use for TT library, and you are welcome to manage it 
+yourself going forward.  
+
+Of course, the key to barcodes is never ever ever ever repeating one ever, especially for semi-
+permanent ones used for inventory, so it makes sense for 1 person to be the Arbiter of Truth and be 
+trusted to never print a duplicate or else library systems will fall apart, so once I hand this over, I will 
+never again touch it - you will print your own from this point forward.  I would also hand over the 
+ordering for your own barcode supply as well, since you'll be better positioned to guess how many codes 
+you need, but I usually order 1 pack per show.  As a side note for aus, I've done some Weird Shit where I 
+give PDFs for printing, but I think it's actually much harder to get everything aligned on the printer 
+successfully and takes multiple test prints to get it right, so I would prefer not to do PDFs.  If you still 
+want me to manage this, I can snag a pack of codes, print them and hand it to Laura or LA to take or ship 
+to Unplugged.  Let me know if this is the case, otherwise I'll assume it's been handed off.
+
+This is the zip of the software and the 
+template: https://files.shoat.org/ttl_software_and_template.zip  The instructions for ongoing use is 
+fairly simple - use the same barcode labels from Avery that we've always used and don't touch the 
+template.  When you hit print, section #3 on the print dialog asks how many barcodes to print - you'll 
+probably want to print an entire pack at a time, so leave it at 2000.  It remembers what the last printed 
+code is and will resume from there as long as you save after you print.  If you mess up and print a bunch 
+of numbers that can't be used or want to do a test print on normal paper before expensive paper, you 
+can change the counter manually by right clicking the red <<counter>> text on the document and 
+choosing properties.  This is where you would adjust the numbers/prefix/suffix.  As of the time of this 
+message, the current number on the file is 16561.
+
+If you are printing to a new printer, I highly suggest aligning and then double checking by printing it to a 
+normal sheet of paper, and holding it up against a blank sheet of labels up to a light and spot checking 
+the alignment.  In order to align, hit the print dialog, step 1, "Adjust..." and then hit the suggest 
+button.  Tweak other numbers as needed (usually not if you are using the PAX standard brother 
+printers).  Also also, know what direction you need to put the labels into the printer, I normally put them 
+print side down on a Brother.  Also also also, be careful about barcode sheets sticking together 
+(sometimes a couple sheets are stuck coming out of a new in box pack), I work around this by physically 
+fanning out all the pages and physically loading the entire pack one sheet at a time to try to minimize it.
+
+GLHF!
+
+~Oliver
+
+On Mon, Nov 15, 2021 at 12:40 PM Laura Stringer <lstringer@penny-arcade.com> wrote:
+Hello!
+
+I know you're not doing Unplugged, but had a question come up that I couldn't immediately answer - 
+specifically how to set up and print new barcode sheets.
+
+Our friend Gundabad (cc'd) was wondering if we have a standard print file or method, and further if we 
+/ they could have access to such in the event they run out.
+
+Would love to (a) know if this is the sort of thing that needs to be done by one specific person vs kinda 
+anybody, and (b) if we can have access to print files and/or databases you use to keep things 
+catalogued.
+
+Thank you very much!
+
+-- 
+Laura Stringer | Penny Arcade, Inc. | Event Manager
+mobile 440.840.5487 | twitter @stringerplz | pronouns she/her, he/him
+penny-arcade.com | paxsite.com | pennyarcademerch.com 

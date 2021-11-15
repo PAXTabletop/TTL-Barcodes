@@ -1,0 +1,82 @@
+License Codes
+
+******** Mac ********
+
+Barcode Generator
+
+	User: 230319611200
+	Key: BGAMA-200-90660406
+
+
+Barcode Blitz
+
+	User: L15403-09665
+	Key: WSBBM-0200-25974328
+    
+
+Barcode Dynamic Library Code EAN/ISBN
+
+	User: L29156-19835
+	Key: WSDY2-0100-28504820
+
+
+Barcode Dynamic Library Code 128
+
+	User: L02209-23312
+	Key: WSDY1-0100-24004187
+	
+
+Barcode Dynamic Library Datamatrix
+
+	User: L23096-26782
+	Key: WSDY3-0100-25504337
+	
+
+******** Windows ********
+
+Barcode Generator
+
+	User: L71603-87123
+	Key: BGAWA-220-67120416
+
+
+Barcode Blitz
+
+	User: L71603-70335
+	Key: WSBBS-0200-26954228
+
+
+Barcode DLL Code 128
+
+	User: L87192-77138
+	Key: WSDL1-0100-30804333
+
+
+Barcode DLL Datamatrix
+
+	User: L76209-65118
+	Key: WSDL3-0100-29704373
+
+           
+Barcode .NET Code EAN/ISBN
+
+	User: L26782-65021
+	Key: WSFC2-0100-27003907
+              
+
+Barcode .NET Code 128
+
+	User: L33102-68040
+	Key: WSFC1-0100-26014150
+
+
+Barcode .NET Datamatrix
+
+	User: L01356-20301
+	Key: WSFC3-0100-23524361
+	
+
+XLabel                 
+
+	User: L01301-33901
+	Key: XLAWA-400-22670445
